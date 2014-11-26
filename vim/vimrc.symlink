@@ -154,3 +154,4 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTree
 " Set 120 column shading
 let &colorcolumn=join(range(121,999),",")
 highlight ColorColumn ctermbg=235 guibg=#2c2d27
+
