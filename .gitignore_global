@@ -1,8 +1,0 @@
-# System files
-*.DS_Store
-
-# RubyMine files
-.idea/
-
-# Coverage files
-coverage/
